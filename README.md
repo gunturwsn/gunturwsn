@@ -20,9 +20,7 @@ Dedicated and innovative Software Engineer with a passion for crafting efficient
 
 -  💬 Ask me about Java, Go, Java, Oracle, Javascript, DBMS, Data Structures & Algorithms.
 
--  😄 Pronouns: He/His
-
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
+-  ⚡ Fun fact: While you close your eyes, this fact is decrypted.
 
 
 

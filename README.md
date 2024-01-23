@@ -10,9 +10,8 @@
 <a href="mailto:gunturw79@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-<p align="center">I'm a Software Engineer with a Bachelor's degree in Computer Science from the National University of Indonesia, graduating with a GPA of 3.94. Recognized as the Best Graduate of the Faculty, my expertise lies in problem-solving and proficiency in Java, Spring, Golang, Zkoss, JavaScript, and Oracle Database.
-
-Specializing in backend development, I am dedicated to creating efficient and robust solutions. My strong foundation in computer science empowers me to excel in optimizing processes and delivering high-performance backend systems.</p>
+<p align="center">I'm a Software Engineer with a Bachelor's degree in Computer Science from the National University of Indonesia, graduating with a GPA of 3.94. Recognized as the Best Graduate of the Faculty, my expertise lies in problem-solving and proficiency in Java, Spring, Golang, Zkoss, JavaScript, and Oracle Database.</p>
+<p align="center">Specializing in backend development, I am dedicated to creating efficient and robust solutions. My strong foundation in computer science empowers me to excel in optimizing processes and delivering high-performance backend systems.</p>
 
 
 -  🔭 I’m currently building backend in Java.
